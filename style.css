@@ -1,0 +1,28 @@
+img{
+    width: 750px;
+    height: 100px;
+    
+}
+.title{
+    position: relative;
+}
+.title h1{
+    position:absolute ;
+    top: 0;
+    right: 300px;
+}
+body{
+    background-image: url(p0531_m.jpg)
+}
+.www{
+    padding: 8px 19px;
+    margin: 2em 0;
+    color: #2c2c2f;
+    background: #cde4ff;
+    border-top: solid 5px #5989cf;
+    border-bottom: solid 5px #5989cf;
+}
+.www h3 {
+    margin: 0; 
+    padding: 0;
+}

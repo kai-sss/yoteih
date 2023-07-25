@@ -1,5 +1,5 @@
 img{
-    width: 590px;
+    width: 375px;
     height: 100px;
 }
 .title{
@@ -12,7 +12,6 @@ img{
 }
 body{
     background-image: url(p0531_m.jpg)
-        overflow-x: hidden;
 }
 .www{
     padding: 8px 19px;

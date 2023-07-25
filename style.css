@@ -1,8 +1,6 @@
 img{
     width: 590px;
     height: 100px;
-    overflow-x: hidden;
-    
 }
 .title{
     position: relative;
@@ -14,6 +12,7 @@ img{
 }
 body{
     background-image: url(p0531_m.jpg)
+        overflow-x: hidden;
 }
 .www{
     padding: 8px 19px;

@@ -1,6 +1,7 @@
 img{
     width: 590px;
     height: 100px;
+    overflow-x: hidden;
     
 }
 .title{
